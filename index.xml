@@ -13,12 +13,13 @@
     
     
     <item>
-      <title>Professional Development</title>
+      <title>About</title>
       <link>https://mnrowe.github.io/about-hugo/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://mnrowe.github.io/about-hugo/</guid>
-      <description>CS50 | 1 Module Left A MOOC course offered by Harvard University it&amp;rsquo;s an introductory course to computer science. It stats off teaching scratch and giving you the basics of what programming languages are like. It start to move towards C and gives you an in-depth explanations of basic algorithms and tools to measure how effectives algorithms in certain scenarios like Big O notation. It also dives deep into memory management the memory stack, heap, buffer overflows, and pointers.</description>
+      <description>Projects Calculator Made a calculator in react with semantic ui for styling to get a better understanding of how to make components interact with each other.
+Timestamp Microservice Created a small API, you can pass it either a unix timestamp or date. It returns both a unix timestamp and date in the form of a JSON object. If neither a unix timestamp or date is not passed it returns null.</description>
     </item>
     
   </channel>
