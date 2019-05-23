@@ -19,7 +19,7 @@
       
       <guid>https://mnrowe.github.io/about-hugo/</guid>
       <description>Projects Calculator Made a calculator in react with semantic ui for styling to get a better understanding of how to make components interact with each other.
-Timestamp Microservice Created a small API, you can pass it either a unix timestamp or date. It returns both a unix timestamp and date in the form of a JSON object. If neither a unix timestamp or date is not passed it returns null.</description>
+Timestamp Microservice Created a small API, you can pass it either a unix timestamp or date. It returns both a unix timestamp and date in the form of a JSON object. If neither a unix timestamp or date is passed it returns null.</description>
     </item>
     
   </channel>
