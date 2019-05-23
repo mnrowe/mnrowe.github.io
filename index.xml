@@ -14,10 +14,10 @@
     
     <item>
       <title>About</title>
-      <link>https://mnrowe.github.io/about-hugo/</link>
+      <link>https://mnrowe.github.io/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mnrowe.github.io/about-hugo/</guid>
+      <guid>https://mnrowe.github.io/about/</guid>
       <description>Projects Calculator Made a calculator in react with semantic ui for styling to get a better understanding of how to make components interact with each other.
 Timestamp Microservice Created a small API, you can pass it either a unix timestamp or date. It returns both a unix timestamp and date in the form of a JSON object. If neither a unix timestamp or date is passed it returns null.</description>
     </item>
