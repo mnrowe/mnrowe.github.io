@@ -22,5 +22,15 @@
 Timestamp Microservice Created a small API, you can pass it either a unix timestamp or date. It returns both a unix timestamp and date in the form of a JSON object. If neither a unix timestamp or date is passed it returns null.</description>
     </item>
     
+    <item>
+      <title>Creating a New Theme</title>
+      <link>https://mnrowe.github.io/posts/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mnrowe.github.io/posts/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
   </channel>
 </rss>
